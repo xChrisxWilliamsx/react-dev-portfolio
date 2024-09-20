@@ -1,7 +1,5 @@
 import '../styles/aboutMe.css';
 
-import '../../'
-
 const About = () => {
     return (
         <div className="card w-100">
